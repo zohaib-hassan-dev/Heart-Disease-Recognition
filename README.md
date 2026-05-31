@@ -15,3 +15,5 @@
    python -m venv venv
    source venv/bin/activate   # Windows: venv\Scripts\activate
    pip install -r requirements.txt
+
+<!-- gitpulse:contribution index="1" timestamp="2026-05-31" -->
